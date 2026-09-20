@@ -13,6 +13,6 @@ public class D {
     }
 
     public void MD3(){
-        System.out.println(MD3);
+        System.out.println("MD3");
     }
 }
